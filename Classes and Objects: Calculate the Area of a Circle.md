@@ -14,7 +14,7 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ```
 import math
-
+ 
 class cse:
     def mech(self, r):
         area = math.pi * r * r
